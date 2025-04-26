@@ -29,7 +29,8 @@
 - 📚 Atualmente, estou aprimorando meus conhecimentos em Kotlin, Android Studio, MongoDB e Figma.<br>
 - ⚡ No meu tempo livre, gosto de explorar novas tecnologias, criar projetos e aprender sempre mais.<br>
 - 🏍️ Estou Participando da Nitro um app de motos para conectar usuarios e clubes.<br>  
-- 🎲 Quero me aprimorar na área de dados</p>
+- 🎲 entusiasta na área de dados</p>
+- 🧑‍💻 Experiência com versionamento de codigo  
 
 ###
 
