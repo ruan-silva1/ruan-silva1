@@ -25,11 +25,11 @@
 
 ###
 
-<p align="left">Olá, sou Ruan Proano e profissional de TI desde 2024, com foco em desenvolvimento backend<br><br>
-- 📚 Atualmente, estou aprimorando meus conhecimentos em Kotlin, Android Studio, MongoDB e Figma.<br>
+<p align="left">Olá, sou Ruan Proano e estudante de TI desde 2024, com foco em análise de dados<br><br>
+- 📚 Atualmente, estou cursando mobile(android) e desenvolvendo conhecimentos em Kotlin, Android Studio, MongoDB e Figma.<br>
 - ⚡ No meu tempo livre, gosto de explorar novas tecnologias, criar projetos e aprender sempre mais.<br>
 - 🏍️ Estou Participando da Nitro um app de motos para conectar usuarios e clubes.<br>  
-- 🎲 entusiasta na área de dados</p>
+- 🎲 entusiasta na área de backend</p>
 - 🧑‍💻 Experiência com versionamento de codigo  
 
 ###
